@@ -5,7 +5,6 @@ Omnifood is a responsive website that  was created as a part of an online course
 a webpage based on the [information](./content.md) given.
 
  You can reach the Omnifood by clicking [here](https://omnifood-matheus-oamk.netlify.app/)
-https://omnifood-matheus-oamk.netlify.app/)
 ### Tools used
 - HTML
 - CSS
